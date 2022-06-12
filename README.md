@@ -9,10 +9,14 @@ This Project is a Simple Student Login React Project which demonstrates the foll
 3. Using of the Bootstrap to minimize the css code.
 5. Using of Router to Implement Basic Routing in React
 
+##  Prerequisites
+
+1. Node JS
+2. Yarn
 
 ## How to RUN ?
 
-1. Clone the Repo to your Local Machine
+1. Clone the Repo to your Local Machine 
 2. Install the packages using following commands
 
 ```sh
