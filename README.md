@@ -32,3 +32,5 @@ yarn install
 yarn start
 ```
 
+# Make Sure the Spring Boot App is Up and Running before intraction with the UI
+
