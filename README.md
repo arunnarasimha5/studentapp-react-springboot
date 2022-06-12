@@ -4,7 +4,7 @@
 
 This Project is a Simple Student Login React Project which demonstrates the following
 
-1. Creating Component in React and comminication betweem them by passing props
+1. Creation of Components in React and Communication betweem them by passing props
 2. Using Axios for the API Calls with the Spring Boot App in the Backed
 3. Using of the Bootstrap to minimize the css code.
 5. Using of Router to Implement Basic Routing in React
